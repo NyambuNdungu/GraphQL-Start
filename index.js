@@ -18,4 +18,4 @@ app.use('/graphql', graphqlHTTP({
     graphiql: true,
 }));
 
-app.listen(8070, () => console.log('Running server on port localhost:8070/graphql'));
+app.listen(8065, () => console.log('Running server on port localhost:8065/graphql'));
